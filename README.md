@@ -240,8 +240,9 @@ AI contributed to:
 ## ⭐ Support
 
 If you like this project, consider giving it a star.
-
 It helps the project grow and motivates future updates.
+If you need help add me on Discord **Aby377**
+If you dont find the .env just creat it and use the code at the Top.
 
 ---
 
