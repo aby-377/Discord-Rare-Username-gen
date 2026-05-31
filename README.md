@@ -18,7 +18,7 @@ This project was developed with the help of Artificial Intelligence.
 
 ---
 
-![VOTDuck Screenshot](screenshot.png)
+![VOTDuck Screenshot](75588fc4-4381-4292-ad0f-a1fd8cd17812.png)
 
 VOTDuck is a fast asynchronous username scanner designed to generate and check short, uncommon username combinations. It features customizable settings, webhook notifications, statistics tracking, and high-performance batch processing.
 
